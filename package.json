@@ -1,0 +1,24 @@
+{
+  "name": "server-js",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "PROJETO,node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanielFariasdev/projetos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanielFariasdev/projetos/issues"
+  },
+  "homepage": "https://github.com/DanielFariasdev/projetos#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
